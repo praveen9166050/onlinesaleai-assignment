@@ -10,4 +10,4 @@
 
 
 ## Task-3
-Corrections have been made in the code file and the chnages have been explained with the help of comments
+Corrections have been made in the code file and the changes have been explained with the help of comments

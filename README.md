@@ -10,4 +10,4 @@
 
 
 ## Task-3
-Debugging has been dine in the code file and the chnages have been explained with the help of comments
+Corrections have been made in the code file and the chnages have been explained with the help of comments
